@@ -1,0 +1,13 @@
+{
+    "registries": [
+        {
+            "kind": "git",
+            "repository": "https://github.com/Chlorie/vcpkg-ports",
+            "packages": [
+                "clu",
+                "miraipp",
+                "unifex"
+            ]
+        }
+    ]
+}
